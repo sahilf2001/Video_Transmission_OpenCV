@@ -19,7 +19,7 @@ On the Client Side steps involved:
 --> Socket Send
 --> Close Socket
 
-Steps involved for Data Transmission
+Steps involved for Data Transmission :
 
 Server Side:
 * OpenCV gets video frames of webcam
